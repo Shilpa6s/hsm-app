@@ -13,7 +13,7 @@ Jinja2==2.11.2
 MarkupSafe==1.1.1
 matplotlib==3.3.0
 mysql-connector==2.2.9
-numpy==1.19.0
+numpy==1.22.0
 pipenv==2020.6.2
 psycopg2==2.8.5
 pytz==2020.1
